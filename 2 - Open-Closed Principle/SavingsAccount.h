@@ -1,3 +1,4 @@
+#pragma once
 #include "AccountType.h"
 
 class SavingsAccount : public AccountType
