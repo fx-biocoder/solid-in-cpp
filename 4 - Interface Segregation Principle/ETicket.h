@@ -1,3 +1,4 @@
+#pragma once
 #include "Document.h"
 #include "IEmail.h"
 
