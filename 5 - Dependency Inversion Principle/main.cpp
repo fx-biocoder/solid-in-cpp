@@ -1,3 +1,4 @@
+#pragma once
 #include "Presenter.h"
 #include "IView.h"
 #include "View.h"
