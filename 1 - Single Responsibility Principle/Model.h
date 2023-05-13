@@ -1,3 +1,4 @@
+#pragma once
 #include "Brand.h"
 #include <iostream>
 
