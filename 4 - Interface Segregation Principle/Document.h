@@ -1,3 +1,4 @@
+#pragma once
 #include "IPrint.h"
 #include <ctime>
 
