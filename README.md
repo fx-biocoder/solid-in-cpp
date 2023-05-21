@@ -27,11 +27,10 @@ By following these principles, developers can create code that is more modular, 
 
 ## Author
 
-- Facundo Martínez (2023)
+- Facundo Martínez © 2023
 
+## Licensing
 
+The content of this repository is licensed under CC BY-NC-SA 4.0
 
-
-## Contributing
-
-Contributions are always welcome!
+If you are interested in using the contents of this repository for commercial purposes, please contact me privately to reach an agreement.
