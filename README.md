@@ -30,7 +30,7 @@ By following these principles, developers can create code that is more modular, 
 
 ## "I want to help you improve this guide. How can I do it?"
 
-If you have any feedback regarding the contents of this guide, such as corrections or possible additions, please create a new issue [here](https://github.com/fx-biocoder/solid-in-cpp/issues). This will allow me to keep track of future modifications that need to be implemented. I greatly appreciate the valuable feedback I have received from users. However, please note that I prioritize suggestions that are submitted through the appropriate channels, as there have been instances of comments made in bad faith that were disguised as feedback.
+If you have any feedback regarding the contents of this guide, such as corrections or possible additions, please create a new issue [here](https://github.com/fx-biocoder/solid-in-cpp/issues). This will allow me to keep track of future modifications that need to be implemented. I greatly appreciate the valuable feedback I have received from users. However, please note that I prioritize suggestions that are submitted through the appropriate channels.
 
 ## Licensing
 
